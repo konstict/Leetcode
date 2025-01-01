@@ -14,9 +14,6 @@ public:
                 }
             else{return false;}
         }
-        if(a.empty()){
-            return true;
-        }
-        return false;;
+        return a.empty();
     }
 };//0ms, 16 min, O(n+3)
