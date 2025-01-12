@@ -1,1 +1,1 @@
-Hi, it is my Leetcode page, when i upload my solved problems
+Hi, it is page of my Leetcode solved problems
